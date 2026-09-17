@@ -1,5 +1,5 @@
 # ian-pearce-portfolio
-Technical portfolio for Ian Pearce with detailed project case studies and resume-ready documentation.
+Technical portfolio with detailed project case studies and resume-ready documentation.
 
 ## Adaptive Tricycle
 
@@ -10,9 +10,9 @@ Technical portfolio for Ian Pearce with detailed project case studies and resume
 
 ### Project overview
 
-The Adaptive Tricycle is an assistive mobility device designed for a four-year-old child with changing mobility and motor-development needs. The design was intended to remain useful as the child grows, with an expected service period extending from approximately age four through age six to eight.
+The Adaptive Tricycle is an assistive mobility device designed for a four-year-old child with cerebral palsy. The design was intended to remain useful as the child grows and encourage motor skill development, with an expected service period extending from approximately age four through age six to eight.
 
-The primary objective was to create a tricycle that balanced safety, adjustability, durability, parental control, and opportunities for independent skill development. The system combined a mechanically adjustable riding platform, multidirectional occupant support, a parental steering override, and an Arduino-based sound-alert system.
+The primary objective was to create a tricycle that balanced safety, adjustability, parental control, and opportunities for independent skill development. The system combined a mechanically adjustable riding platform, multidirectional occupant support, a parental steering override, and an Arduino-based sound-alert system.
 
 ### Design requirements
 
